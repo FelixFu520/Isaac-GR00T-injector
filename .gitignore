@@ -1,4 +1,6 @@
 output/
+data/
+Isaac-GR00T_bak/
 
 # C extensions
 *.so
