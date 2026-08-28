@@ -1,3 +1,5 @@
+
+
 # Isaac-GR00T-injector
 Isaac-GR00T补充和学习
 笔记链接: https://siwrc302o4r.feishu.cn/wiki/C4q0wUThZijumVkVWLfctAmAnxf?fromScene=spaceOverview
@@ -343,6 +345,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -e .
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple robosuite==1.4.1 tyro
 
 # 安装openpi-client
+cd /root/data/projects/embodiedai/grootn1/Isaac-GR00T/Isaac-GR00T-injector/sim/openpi-client
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -e .
 
 ```
